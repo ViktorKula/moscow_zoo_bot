@@ -1,4 +1,4 @@
-TOKEN = '8108364260:AAEIBT9Y0FDcH1zK4ihs5mWMNzZfFjbvZnc'
+TOKEN = 'add token your telegram bot'
 
 questions = [
     {
